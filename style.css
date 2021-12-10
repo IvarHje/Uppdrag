@@ -1,0 +1,89 @@
+body {
+    background: #fff;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    width: 100%;
+    margin: 0;
+}
+
+.w-100 {
+    width: 90%;
+    margin: auto;
+}
+
+.search {
+    padding-top: 50px;
+}
+
+.py-1 {
+    padding-right: 10px;
+}
+
+.py-2 {
+    padding-right: 15px;
+}
+
+
+.w-50 {
+    width: 50%;
+    align-items: center;
+    margin: auto;
+}
+
+.image-holder {
+    padding-top: 50px;
+}
+
+@media (max-width: 1200px) {
+    label .label {
+        font-size: 100px;
+    }
+  }
+
+.border-b {
+    border-: 2px #000;
+}
+
+input {
+    width: 100px;
+}
+
+.material-icons {
+    color: #000;
+}
+
+
+footer {
+    padding-top: 300px;
+}
+
+
+a i {
+    width: 100px;
+    height: 100px;
+}
+
+.card {
+    width: 300px;
+    height: 500px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+.image-holde {
+    padding-top: 100px;
+}
+
+.settings {
+    padding-top: 35px;
+}
+
+.settings2 {
+    padding-top: 50px;
+}
+
+.sidenav li {
+    padding-top: 40px;
+}
+
